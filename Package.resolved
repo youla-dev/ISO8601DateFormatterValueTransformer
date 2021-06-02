@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ISO8601DateFormatter",
+        "repositoryURL": "https://github.com/youla-dev/iso-8601-date-formatter",
+        "state": {
+          "branch": "xcframework",
+          "revision": "f44e7c02af88937bce94be2b152552f78a592c48",
+          "version": null
+        }
+      },
+      {
+        "package": "RKValueTransformers",
+        "repositoryURL": "https://github.com/youla-dev/RKValueTransformers",
+        "state": {
+          "branch": "xcframework",
+          "revision": "ddd99cf8e01f494180dc4b6041026ba162a020f9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
