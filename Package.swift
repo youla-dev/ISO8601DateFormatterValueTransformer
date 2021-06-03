@@ -22,7 +22,6 @@ let package = Package(
                 .byName(name: "RKValueTransformers"),
                 .byName(name: "ISO8601DateFormatter"),
             ],
-            path: "Code/",
-            publicHeadersPath: "Code/ISO8601DateFormatterValueTransformer.h"
+            path: "Code/"
         ),
     ])
