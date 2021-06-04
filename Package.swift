@@ -12,7 +12,7 @@ let package = Package(
             targets: ["ISO8601DateFormatterValueTransformer"])
     ],
     dependencies: [
-        .package(name:"RKValueTransformers" ,url: "https://github.com/youla-dev/RKValueTransformers", .branch("xcframework")),
+        .package(name:"RKValueTransformers" ,url: "https://github.com/youla-dev/RKValueTransformers", .revision("892bee5bb409672b55a22b9a272f961b43a6f779")),
     ],
     targets: [
         .target(

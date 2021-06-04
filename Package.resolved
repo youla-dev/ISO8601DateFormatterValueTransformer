@@ -5,8 +5,8 @@
         "package": "RKValueTransformers",
         "repositoryURL": "https://github.com/youla-dev/RKValueTransformers",
         "state": {
-          "branch": "xcframework",
-          "revision": "ddd99cf8e01f494180dc4b6041026ba162a020f9",
+          "branch": null,
+          "revision": "892bee5bb409672b55a22b9a272f961b43a6f779",
           "version": null
         }
       }
