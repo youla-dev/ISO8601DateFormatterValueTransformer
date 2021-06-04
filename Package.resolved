@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RKValueTransformers",
+        "repositoryURL": "https://github.com/youla-dev/RKValueTransformers",
+        "state": {
+          "branch": "xcframework",
+          "revision": "ddd99cf8e01f494180dc4b6041026ba162a020f9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
