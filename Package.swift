@@ -20,6 +20,7 @@ let package = Package(
             dependencies: [
                 .byName(name: "RKValueTransformers"),
             ],
-            path: "Code/"
+            path: "Code/",
+            publicHeadersPath: ""
         ),
     ])
