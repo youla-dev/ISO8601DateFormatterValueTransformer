@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.5
 
 import PackageDescription
 let package = Package(
@@ -12,7 +12,7 @@ let package = Package(
             targets: ["ISO8601DateFormatterValueTransformer"])
     ],
     dependencies: [
-        .package(name:"RKValueTransformers" ,url: "https://github.com/youla-dev/RKValueTransformers", .revision("10417a668762293f52254ced35db7bca78c453ef")),
+        .package(name:"RKValueTransformers" ,url: "https://github.com/youla-dev/RKValueTransformers", .revision("82e881378ffd746b168ffbdb7deab8b8c1c4603a")),
     ],
     targets: [
         .target(
